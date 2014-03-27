@@ -1,0 +1,17 @@
+{
+  "name": "jistype",
+  "version": "0.0.1",
+  "description": "yet another istype detect library using `Object.prototype.toStirng` to get type.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "istype"
+  ],
+  "author": "Jeremial",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.7.1"
+  }
+}
