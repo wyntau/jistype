@@ -3,36 +3,36 @@ getType = (obj) ->
 
 class module.exports
     @isString: (obj)->
-        getType obj is '[object String]'
+        '[object String]' is getType obj
 
     @isArray: (obj)->
-        getType obj is '[object Array]'
+        '[object Array]' is getType obj
 
     @isRegExp: (obj)->
-        getType obj is '[object RegExp]'
+        '[object RegExp]' is getType obj
 
     @isNumber: (obj)->
-        getType obj is '[object Number]'
+        '[object Number]' is getType obj
 
     @isObject: (obj)->
-        getType obj is '[object Object]'
+        '[object Object]' is getType obj
 
     @isFunction: (obj)->
-        getType obj is '[object Function]'
+        '[object Function]' is getType obj
 
     @isBoolean: (obj)->
-        getType obj is '[object Boolean]'
+        '[object Boolean]' is getType obj
 
     @isUndefined: (obj)->
-        getType obj is '[object Undefined]'
+        '[object Undefined]' is getType obj
 
     @isNull: (obj)->
-        getType obj is '[object Null]'
+        '[object Null]' is getType obj
 
     @isDate: (obj)->
-        getType obj is '[object Date]'
+        '[object Date]' is getType obj
 
     @isGlobal: (obj)->
-        getType obj is '[object global]'
+        '[object global]' is getType obj
 
     @type: getType

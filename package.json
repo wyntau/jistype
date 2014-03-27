@@ -1,6 +1,6 @@
 {
   "name": "jistype",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "yet another istype detect library using `Object.prototype.toStirng` to get type.",
   "main": "index.js",
   "scripts": {
