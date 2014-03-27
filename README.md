@@ -1,6 +1,6 @@
 ## jistype
 
-yet another istype detect library using `Object.prototype.toStirng` to get type.
+yet another istype detect library using `Object.prototype.toStirng.call` to get type.
 
 ### methods
 - isString
