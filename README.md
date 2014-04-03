@@ -14,6 +14,14 @@ yet another istype detect library using `Object.prototype.toStirng.call` to get 
 - isNull
 - isDate
 - isGlobal
+- isError
+- isBuffer
+- isNullOrUndefined
+- isNaN
+- isPrimitive
+- isGenerator
+- isGeneratorFunction
+- isPromise
 - type
 
 ### License

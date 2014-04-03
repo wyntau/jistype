@@ -1,6 +1,6 @@
 {
   "name": "jistype",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "yet another istype detect library using `Object.prototype.toStirng` to get type.",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "coffee-script": "^1.7.1"
-  },
-  "devDependencies": {
-    "coffee-script": "~1.7.1"
   },
   "repository": {
     "type": "git",
