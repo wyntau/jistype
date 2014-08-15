@@ -1,6 +1,6 @@
 {
   "name": "jistype",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "yet another istype detect library using `Object.prototype.toStirng` to get type.",
   "main": "index.js",
   "scripts": {
@@ -9,17 +9,17 @@
   "keywords": [
     "istype"
   ],
-  "author": "Jeremial",
+  "author": "Treri",
   "license": "MIT",
   "dependencies": {
     "coffee-script": "^1.7.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jeremial/jistype"
+    "url": "https://github.com/Treri/jistype"
   },
   "bugs": {
-    "url": "https://github.com/Jeremial/jistype/issues"
+    "url": "https://github.com/Treri/jistype/issues"
   },
-  "homepage": "https://github.com/Jeremial/jistype"
+  "homepage": "https://github.com/Treri/jistype"
 }
